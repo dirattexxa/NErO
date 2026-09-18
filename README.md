@@ -60,4 +60,4 @@ A low-level C++ systems utility designed for secure remote server orchestration 
 
 Interested in hardware architecture, systems software engineering, kernel research, or low-level binary analysis? Let's talk code. 
 
-**Telegram:** [@ah7ieg72uf](https://t.me/ah7ieg72uf)
+**Telegram:** [@NeroMind](https://t.me/ah7ieg72uf)
